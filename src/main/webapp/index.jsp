@@ -8,10 +8,6 @@
 </head>
 <body>
 hello world this is new one. One. This is all about Feature. New Feature.
-<<<<<<< HEAD
 This is feature branch.
-=======
-This is develop branch.
->>>>>>> 1496265a80a933da246756f940aad520f0dc5b3c
 </body>
 </html>
